@@ -888,13 +888,10 @@
     const-string v1, "311480"
 
     .line 127
-    invoke-virtual {v1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+    
+    nop
 
-    move-result v0
-
-    if-nez v0, :cond_0
-
-    const v0, 0x7f0f0064
+    return-void
 
     .line 129
     invoke-virtual {p0, v0}, Lcom/wy/f1home/activity/KeyguardActivity;->getString(I)Ljava/lang/String;
