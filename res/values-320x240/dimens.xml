@@ -36,9 +36,9 @@
     <dimen name="notifity_list_height">60.0px</dimen>
     <dimen name="notifity_list_image_bg_height">30.0px</dimen>
     <dimen name="notifity_list_image_bg_width">30.0px</dimen>
-    <dimen name="notifity_list_image_height">15.0px</dimen>
-    <dimen name="notifity_list_image_margin">10.0px</dimen>
-    <dimen name="notifity_list_image_width">12.0px</dimen>
+    <dimen name="notifity_list_image_height">18.0px</dimen>
+    <dimen name="notifity_list_image_margin">0.0px</dimen>
+    <dimen name="notifity_list_image_width">18.0px</dimen>
     <dimen name="notifity_list_text">17.0px</dimen>
     <dimen name="notifity_list_time">10.0px</dimen>
     <dimen name="notifity_list_title">12.0px</dimen>
