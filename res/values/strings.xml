@@ -87,8 +87,8 @@ Settings"</string>
     <string name="mainmenu_tool_title">Tools</string>
     <string name="mainmenu_tool_voice_recorder">Voice recorder</string>
     <string name="mainmenu_tool_world_clock">World clock</string>
-    <string name="mainmenu_verizon">"Verizon
-apps"</string>
+    <string name="mainmenu_tools_tweaks">"Tools &amp;
+Tweaks"</string>
     <string name="miss_call_format">" %d missed call"</string>
     <string name="miss_calls_format">" %d missed calls"</string>
     <string name="miss_mms_format">" %d new message"</string>

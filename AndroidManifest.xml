@@ -42,7 +42,7 @@
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/mainmenu_verizon" android:launchMode="singleTask" android:name="com.wy.f1home.Verizon.VerizonActivity" android:screenOrientation="portrait" android:theme="@style/ToolTheme">
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/mainmenu_tools_tweaks" android:launchMode="singleTask" android:name="com.wy.f1home.Verizon.VerizonActivity" android:screenOrientation="portrait" android:theme="@style/ToolTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.DEFAULT"/>

@@ -37,8 +37,8 @@ config"</string>
     <string name="mainmenu_tool_title">Herramientas</string>
     <string name="mainmenu_tool_voice_recorder">Grabadora de voz</string>
     <string name="mainmenu_tool_world_clock">Reloj mundial</string>
-    <string name="mainmenu_verizon">"Verizon
-apps"</string>
+    <string name="mainmenu_tools_tweaks">"Tools &amp;
+Tweaks"</string>
     <string name="miss_call_format">" %d llamada perdida"</string>
     <string name="miss_calls_format">" %d llamadas perdidas"</string>
     <string name="miss_mms_format">" %d nuevo mensaje"</string>

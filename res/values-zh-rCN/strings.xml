@@ -62,8 +62,8 @@
     <string name="mainmenu_tool_title">工具</string>
     <string name="mainmenu_tool_voice_recorder">录音</string>
     <string name="mainmenu_tool_world_clock">世界时钟</string>
-    <string name="mainmenu_verizon">"Verizon
-apps"</string>
+    <string name="mainmenu_tools_tweaks">"Tools &amp;
+Tweaks"</string>
     <string name="miss_call_format">" %d 未接电话"</string>
     <string name="miss_calls_format">" %d 未接电话"</string>
     <string name="miss_mms_format">" %d 新信息"</string>

@@ -183,7 +183,7 @@
 
 .field public static final mainmenu_tool_world_clock:I = 0x7f0f0053
 
-.field public static final mainmenu_verizon:I = 0x7f0f0054
+.field public static final mainmenu_tools_tweaks:I = 0x7f0f0054
 
 .field public static final miss_call_format:I = 0x7f0f0055
 

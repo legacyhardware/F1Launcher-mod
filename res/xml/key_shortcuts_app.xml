@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Apps xmlns:app="http://schemas.android.com/apk/res-auto">
-    <App app:clsName="com.wy.f1home.KeyShortcuts.KeyShortcutsActivity" app:group="extra" app:icon="@drawable/tool_file_manager_select" app:label="@string/shortcuts" app:pkgName="com.wy.f1home" app:position="9" />
-    <App app:clsName="com.android.dialer.app.calllog.CallLogActivity" app:group="mainmenu" app:icon="@drawable/call" app:label="@string/shortcut_call" app:pkgName="com.android.dialer" app:position="1" />
-    <App app:clsName="com.android.mms.ui.ConversationList" app:group="mainmenu" app:icon="@drawable/mms" app:label="@string/mainmenu_mms" app:pkgName="com.android.mms" app:position="2" />
-    <App app:clsName="com.android.contacts.activities.PeopleActivity" app:group="mainmenu" app:icon="@drawable/contacts" app:label="@string/mainmenu_contacts" app:pkgName="com.android.contacts" app:position="3" />
-    <App app:clsName="com.android.camera.GalleryPicker" app:group="mainmenu" app:icon="@drawable/gallery" app:label="@string/mainmenu_gallery" app:pkgName="com.android.gallery" app:position="4" />
-    <App app:clsName="com.wy.f1home.MediaCenter.MediaCenter" app:group="mainmenu" app:icon="@drawable/media_center" app:label="@string/shortcut_media" app:pkgName="com.wy.f1home" app:position="5" />
-    <App app:clsName="com.wy.f1home.Verizon.VerizonActivity" app:group="mainmenu" app:icon="@drawable/verizon" app:label="@string/shortcut_verizon" app:pkgName="com.wy.f1home" app:position="6" />
-    <App app:clsName="com.android.browser.BrowserActivity" app:group="mainmenu" app:icon="@drawable/internet" app:label="@string/mainmenu_internet" app:pkgName="com.android.browser" app:position="7" />
-    <App app:clsName="com.wy.f1home.Notification.MainActivity" app:group="mainmenu" app:icon="@drawable/notificion" app:label="@string/mainmenu_notify" app:pkgName="com.wy.f1home" app:position="8" />
-    <App app:clsName="com.android.f1settings.Settings" app:group="mainmenu" app:icon="@drawable/toolsetting" app:label="@string/shortcut_tool" app:pkgName="com.android.settings" app:position="9" />
+    <App app:clsName="com.android.dialer.app.calllog.CallLogActivity" app:group="mainmenu" app:icon="@drawable/ic_recent_calls" app:label="@string/mainmenu_call" app:pkgName="com.android.dialer" app:position="1" />
+    <App app:clsName="com.android.mms.ui.ConversationList" app:group="mainmenu" app:icon="@drawable/ic_messages" app:label="@string/mainmenu_mms" app:pkgName="com.android.mms" app:position="2" />
+    <App app:clsName="com.android.contacts.activities.PeopleActivity" app:group="mainmenu" app:icon="@drawable/ic_contacts" app:label="@string/mainmenu_contacts" app:pkgName="com.android.contacts" app:position="3" />
+    <App app:clsName="com.android.camera.GalleryPicker" app:group="mainmenu" app:icon="@drawable/ic_gallery" app:label="@string/mainmenu_gallery" app:pkgName="com.android.gallery" app:position="4" />
+    <App app:clsName="com.wy.f1home.MediaCenter.MediaCenter" app:group="mainmenu" app:icon="@drawable/ic_media_center" app:label="@string/mainmenu_media" app:pkgName="com.wy.f1home" app:position="5" />
+    <App app:clsName="com.wy.f1home.activity.ToolActivity" app:group="mainmenu" app:icon="@drawable/ic_tools_tweaks" app:label="@string/mainmenu_tools_tweaks" app:pkgName="com.wy.f1home" app:position="6" />
+    <App app:clsName="com.android.browser.BrowserActivity" app:group="mainmenu" app:icon="@drawable/ic_browser" app:label="@string/mainmenu_internet" app:pkgName="com.android.browser" app:position="7" />
+    <App app:clsName="com.wy.f1home.Notification.MainActivity" app:group="mainmenu" app:icon="@drawable/ic_notifications" app:label="@string/mainmenu_notify" app:pkgName="com.wy.f1home" app:position="8" />
+    <App app:clsName="com.android.f1settings.Settings" app:group="mainmenu" app:icon="@drawable/ic_settings" app:label="@string/mainmenu_tool" app:pkgName="com.android.settings" app:position="9" />
     <App app:clsName="com.android.soundrecorder.SoundRecorder" app:group="extra" app:icon="@drawable/tool_voice_recorder_select" app:label="@string/mainmenu_tool_voice_recorder" app:pkgName="com.android.soundrecorder" app:position="1" />
     <App app:clsName="com.android.calendar.AllInOneActivity" app:group="extra" app:icon="@drawable/tool_calendar_select" app:label="@string/mainmenu_tool_calendar" app:pkgName="com.wy.f1calendar" app:position="2" />
     <App app:clsName="caron.activity.CaronAlarmClockActivity" app:group="extra" app:icon="@drawable/tool_alarm_select" app:label="@string/mainmenu_tool_alarm" app:pkgName="com.android.deskclock" app:position="3" />
@@ -19,4 +18,5 @@
     <App app:clsName="com.wy.f1calculator.MainActivity" app:group="extra" app:icon="@drawable/tool_calculator_select" app:label="@string/mainmenu_tool_calculator" app:pkgName="com.wy.f1calculator" app:position="7" />
     <App app:clsName="com.wy.f1note.NoteActivity" app:group="extra" app:icon="@drawable/tool_notapad_select" app:label="@string/mainmenu_tool_notepad" app:pkgName="com.wy.f1note" app:position="8" />
     <App app:clsName="com.android.qrdfileexplorer.MainActivity" app:group="extra" app:icon="@drawable/tool_file_manager_select" app:label="@string/mainmenu_tool_file_manager" app:pkgName="com.android.qrdfileexplorer" app:position="9" />
+    <App app:clsName="com.wy.f1home.KeyShortcuts.KeyShortcutsActivity" app:group="extra" app:icon="@drawable/tool_file_manager_select" app:label="@string/shortcuts" app:pkgName="com.wy.f1home" app:position="10" />
 </Apps>
